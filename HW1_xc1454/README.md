@@ -1,4 +1,4 @@
-#Here is the homework_1 assigment_1.
+# Here is the homework_1 assigment_1.
 
 **Here is the steps that I followed.**
 
