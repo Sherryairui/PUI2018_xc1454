@@ -25,7 +25,9 @@ Then use the statement to add the environment variable and alias.
 ```export PUI2018="~/PUI2018"```
 ```alias pui2018="cd PUI2018"```
 
-Now save and quiz the file.
+Now save and quiz the file. Here is the screenshot of the file.
+
+
 
 5. Use the statement to read the new version of the file.
 
@@ -38,5 +40,8 @@ pwd
 pui2018
 pwd
 ```
+
+Here is the screenshot of those output.
+
 
 Now my environment is setup!
