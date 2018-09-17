@@ -27,7 +27,7 @@ Then use the statement to add the environment variable and alias.
 
 Now save and quiz the file. Here is the screenshot of the file.
 
-
+![nano_input.png](PUI2018_xc1454/HW1_xc1454/nano_input.png)
 
 5. Use the statement to read the new version of the file.
 
@@ -43,5 +43,6 @@ pwd
 
 Here is the screenshot of those output.
 
+![terminal_input_output](PUI2018_xc1454/HW1_xc1454/terminal_input_output.png)
 
 Now my environment is setup!
