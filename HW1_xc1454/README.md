@@ -43,6 +43,6 @@ pwd
 
 Here is the screenshot of those output.
 
-![terminal_input_output](https://github.com/Sherryairui/PUI2018_xc1454/HW1_xc1454/terminal_input_output.png)
+![terminal_input_output](https://github.com/Sherryairui/PUI2018_xc1454/blob/master/HW1_xc1454/terminal_input_output.png)
 
 Now my environment is setup!
