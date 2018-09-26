@@ -35,3 +35,9 @@
 1. Use API key to access the MTA [SIRI VehicleMonitoring data](http://bustime.mta.info/wiki/Developers/SIRIVehicleMonitoring).
 
 2. Parse the json file. For assignment 3, I output the Bus Line, Number of Active Buses, latitude and longitude in terminal. For assignment 4, I output the Latitude, Longitude, Stop Name and Stop Status in a .csv file.
+
+### hint: the url should set 'VehicleMonitoringDetailLevel=calls', otherwise the onwardcalls will be empty.
+
+## contribution
+
+I finish this homework by myself. When I meet some troubles, I use google and slack to search for some help. 
