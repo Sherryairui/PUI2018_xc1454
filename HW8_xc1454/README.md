@@ -11,7 +11,7 @@ Here is the histogram about the number of old (age>=45) and young (age<45) peopl
 
 Here is the link of my classmate review document: https://github.com/Sherryairui/PUI2018_xc1454/blob/master/Xurui_HW4_review.md
 
-Here is the link of Authorea: https://www.authorea.com/users/249609/articles/335946-the-number-of-people-using-citi-bike-in-different-age
+Here is the link of Authorea:https://www.authorea.com/335946/RJIpM2mm1-vtaiuj2qDeWw
 
 
 # contribution
