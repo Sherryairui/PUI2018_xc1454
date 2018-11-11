@@ -1,4 +1,4 @@
-[hl3282_plot.png](hl3282_plot.png)
+![hl3282_plot.png](hl3282_plot.png)
 
 
 ## Clarity

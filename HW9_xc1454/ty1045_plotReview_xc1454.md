@@ -1,4 +1,4 @@
-[ty1045_plot.png](ty1045_plot.png)
+![ty1045_plot.png](ty1045_plot.png)
 
 ## Clarity
 
