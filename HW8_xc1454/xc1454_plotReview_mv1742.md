@@ -1,6 +1,11 @@
 # xc1454_plotReview_mv1742
 
-![image](Darui'splot.png)
+Dear Sherry Rui,
+
+I refer to your plot from HW8 shown below:
+![image](Daily_rides_number_for_Old_People_and_Young_People_in_201409.png)
+
+Three comments about your plot:
 
 ## CLARITY
 
@@ -19,3 +24,5 @@ https://github.com/fedhere/UInotebooks/blob/master/slides2018/UI7_PUI2018.pdf
 
 The scale of the axis is good.
 However it would be better to have the bars for next to each other (not stacked) to compare their magnitude.
+
+Best,
