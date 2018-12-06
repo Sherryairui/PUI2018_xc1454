@@ -1,19 +1,19 @@
+# Assignment 1
 
-# PUI2018 HW 11
+Find outliers, trends and periodicity in the MTA turnstyle data. And build a classifier that assigns a card type to a time series based on time series features
 
-## Reading
-Mandatory: [Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/) Kim Larsen (MultiThreaded, SF)  blog post on bayesian vs non-bayesian tsa
+# Assignment 2
 
-Optional: [Is Seattle Really Seeing an Uptick In Cycling?](https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/) an excellent analysis of time series by Jake Vander Plas (UW e-science center)
+![Daily_rides_number_for_Old_People_and_Young_People_in_201409.png](Daily_rides_number_for_Old_People_and_Young_People_in_201409.png)
 
+## Figure 1
 
-## ASSIGNMENTS:
+Here is the histogram about the number of old (age>=45) and young (age<45) people riding citi bike through 09.2014, which shows by days. I use this figure to find the difference between the number of old and young people riding citi bike. From this figure, we can see that the number of young people who ride citi bike in 09.2014 is much higher than the number of old people through the whole month.
 
-### Assignment 1. Work from the [skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW11_fb55/subway_timeseries_instructions2.ipynb) with inline instructions.
-**Turn in as a notebook on your repo, as usual**, you can work in groups as usual, have a statement of the work balance in the group as usual.
+## Improvement
 
-### Assignment 2. Improve your plot from HW8 based on the feedback you recieved from your classmates (let me know if you did not recieve feedback and I will comment on your original plot)
+Here I optimize the legend to prevent it to obscure the figure and add the age range. And use larger fontsize to make sure reader see the plot clearly. Change the title to 'Daily rides number for Old People and Young People in September 2014' and change the y-axis label to 'Days of Month (Sep 2014)'. What's more, I remove the error bar in case it leads some misunderstanding. And I make the bars for next to each other (not stacked) to compare their magnitude.
 
+# Contribution
 
-
-
+I finish this homework by myself.
